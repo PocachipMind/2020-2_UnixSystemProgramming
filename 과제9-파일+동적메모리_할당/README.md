@@ -1,14 +1,14 @@
 # 개인 과제 9 : 파일+동적메모리할당
 ### 내용 : 프로그램 2개 작성
-#### 1.generator.c
-
+#### 1. generator.c
+아래의 자료를 참고하여, 임의의 개수만큼 ( N<= 1000 ) 임의의 학생 데이터를 생성하여 이진파일로 저장.
 ![1](https://user-images.githubusercontent.com/101550112/159163066-801c1242-d9b3-4b00-99eb-446e2ade1e40.png)
 
-<br>
+난수 생성을 위해 rand() 사용하고, random seed를 적절하게 적용해 사용할 것.
 
-# How To Run
+#### 2. loader.c
+Generator가 생성한 파일을 읽어들여, 저장된 데이터를 로드함.
+이때, 동적으로 메모리를 할당하여, 연결 리스트에 필요한 만큼 저장.
+모든 데이터를 읽은 다음, 사용자로부터 1000 이하의 양의 정수 하나 입력받아, 해당 순서에 위치한 데이터를 출력함 ( 가장 앞에 있는 노드가 1번 )
 
-### Download and Unzip
-https://drive.google.com/open?id=1IjYX8rz81Y3IE-C_AjgMTUJdxG0EX8oX
-### Run BobsSimulator.exe
 <br>

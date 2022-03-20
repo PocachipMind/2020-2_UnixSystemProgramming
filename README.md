@@ -3,4 +3,4 @@
 
 This repositories is for Unix System Programming course-related archives for the second semester of 2020
 
-수업내용보단 의미 있었다고 생각하는 과제 구현 내용 위주로 업로드.
+수업 내용은 업로드되어있지 않습니다. 과제 구현위주의 보관소 입니다.

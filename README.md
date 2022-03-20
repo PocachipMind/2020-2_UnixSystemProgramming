@@ -3,4 +3,6 @@
 
 This repositories is for Unix System Programming course-related archives for the second semester of 2020
 
-수업 내용은 업로드되어있지 않습니다. 과제 구현위주의 보관소 입니다.
+수업 내용은 업로드되어있지 않습니다. 과제 구현 코드 위주의 보관소 입니다.
+
+There is no content in the class. It is a storage that focuses on the task implementation code.

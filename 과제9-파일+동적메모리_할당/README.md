@@ -2,7 +2,7 @@
 ### 내용 : 프로그램 2개 작성
 #### 1.generator.c
 
-<img src = '2020-2_UnixSystemProgramming/과제9-파일+동적메모리_할당/image/1.png' width = ' ' height = ' ' />
+<img src = '2020-2_UnixSystemProgramming/과제9-파일+동적메모리_할당/image/1.png' >
 
 <br>
 

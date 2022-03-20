@@ -1,9 +1,8 @@
-# BobsSimulator
-### Simulate HearthStone Battleground and Calculate Your Win Rate.
-#### Example Images
-<img src = 'res_exclude/readme/ex1.PNG' width = ' ' height = ' ' />
-<img src = 'res_exclude/readme/ex2.PNG' width = ' ' height = ' ' />
-<img src = 'res_exclude/readme/ex3.PNG' width = ' ' height = ' ' />
+# 개인 과제 9 : 파일+동적메모리할당
+### 내용 : 프로그램 2개 작성
+#### 1.generator.c
+
+<img src = '2020-2_UnixSystemProgramming/과제9-파일+동적메모리_할당/image/1.PNG' width = ' ' height = ' ' />
 <br>
 
 # How To Run

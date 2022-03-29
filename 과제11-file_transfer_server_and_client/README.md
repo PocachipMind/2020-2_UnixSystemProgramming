@@ -1,7 +1,4 @@
 # File Transfer Sever And Client
-### 먼저 를 읽어
+### 먼저 과제 설명 PDF를 읽어주세요!
 #### Example Images
-<img src = 'res_exclude/readme/ex1.PNG' width = ' ' height = ' ' />
-<img src = 'res_exclude/readme/ex2.PNG' width = ' ' height = ' ' />
-<img src = 'res_exclude/readme/ex3.PNG' width = ' ' height = ' ' />
-<br>
+
